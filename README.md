@@ -14,5 +14,5 @@ This is a simple website that displays some information about me with some small
 
 ## Sources and Credit
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog - Helped with setting up the button and dialog logic
-Chat Gpt - Helped with corrected some of the logic where i was missing components or modules
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog => Helped with setting up the button and dialog logic
+- Chat Gpt => Helped with correcting some of the logic where I was missing components or general modules
