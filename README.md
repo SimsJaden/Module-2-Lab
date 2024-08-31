@@ -2,23 +2,17 @@
 
 ## Overview
 
-TODO: Write a project description
+This is a simple website that displays some information about me with some small rule sets to stylize the webpage.
 
-## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+## How to run
 
-A simple bulleted list below is sufficient. For example:
+- To run the website, simply clone the repository at https://github.com/SimsJaden/Module-2-Lab.
+- Once its cloned, start the Live Preview server while load the copied repository.
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Once you've done those two things you should be able to view and enjoy the website.
+
+## Sources and Credit
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog - Helped with setting up the button and dialog logic
+Chat Gpt - Helped with corrected some of the logic where i was missing components or modules

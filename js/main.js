@@ -16,3 +16,14 @@ function loaded() {
 export function sayHello() {
     return 'hello';
 }
+
+// Function to show alert
+function showAlert() {
+    alert(sayHello());
+}
+
+// Binding the function to the button
+document.addEventListener('DOMContentLoaded', () => {
+    const button = document.querySelector('button');
+    button.addEventListener('click', showAlert);
+});
